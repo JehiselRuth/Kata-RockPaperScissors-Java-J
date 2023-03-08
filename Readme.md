@@ -3,7 +3,7 @@
 Kata to practice with java
 
 
-## Requiered
+## Required
 
 - Minimum Java 11
 ## DevDependency
